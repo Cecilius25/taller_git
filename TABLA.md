@@ -21,10 +21,11 @@ ___
 ### Grupo C
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Francia" src="http://flags.fmcdn.net/data/flags/w580/fr.png" width="50" height="50">| Francia|6|       
-| <img alt="Dinamarca" src="http://flags.fmcdn.net/data/flags/w580/dk.png" width="50" height="50">| Dinamarca |4|       
+| <img alt="Francia" src="http://flags.fmcdn.net/data/flags/w580/fr.png" width="50" height="50">| Francia|7|       
+| <img alt="Dinamarca" src="http://flags.fmcdn.net/data/flags/w580/dk.png" width="50" height="50">| Dinamarca |5|  
+| <img alt="Perú" src="http://flags.fmcdn.net/data/flags/w580/pe.png" width="50" height="50">| Perú |3|
 | <img alt="Australia" src="http://flags.fmcdn.net/data/flags/w580/au.png" width="50" height="50">| Australia |1|       
-| <img alt="Perú" src="http://flags.fmcdn.net/data/flags/w580/pe.png" width="50" height="50">| Perú |0|       
+       
 ___
 ### Grupo D
 |Bandera               |      Equipos         | Puntos|
