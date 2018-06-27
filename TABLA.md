@@ -37,18 +37,18 @@ ___
 ### Grupo E
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Brasil" src="http://flags.fmcdn.net/data/flags/w580/br.png" width="50" height="50">| Brasil|4|       
-| <img alt="Suiza" src="http://flags.fmcdn.net/data/flags/w580/ch.png" width="50" height="50">| Suiza |4|       
+| <img alt="Brasil" src="http://flags.fmcdn.net/data/flags/w580/br.png" width="50" height="50">| Brasil|7|       
+| <img alt="Suiza" src="http://flags.fmcdn.net/data/flags/w580/ch.png" width="50" height="50">| Suiza |5|       
 | <img alt="Serbia" src="http://flags.fmcdn.net/data/flags/w580/rs.png" width="50" height="50">| Serbia |3|       
-| <img alt="Costa Rica" src="http://flags.fmcdn.net/data/flags/w580/cr.png" width="50" height="50">| Costa Rica |0|       
+| <img alt="Costa Rica" src="http://flags.fmcdn.net/data/flags/w580/cr.png" width="50" height="50">| Costa Rica |1|       
 ___
 ### Grupo F
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
+| <img alt="Suecia" src="http://flags.fmcdn.net/data/flags/w580/se.png" width="50" height="50">| Suecia | 6|
 | <img alt="México" src="http://flags.fmcdn.net/data/flags/w580/mx.png" width="50" height="50">| México | 6|
-| <img alt="Suecia" src="http://flags.fmcdn.net/data/flags/w580/se.png" width="50" height="50">| Suecia | 3|
-| <img alt="Alemania" src="http://flags.fmcdn.net/data/flags/w580/de.png" width="50" height="50">| Alemania | 0|  
-| <img alt="Corea Sur" src="http://flags.fmcdn.net/data/flags/w580/kr.png" width="50" height="50">| Corea Sur | 0|     
+| <img alt="Corea Sur" src="http://flags.fmcdn.net/data/flags/w580/kr.png" width="50" height="50">| Corea Sur | 3|
+| <img alt="Alemania" src="http://flags.fmcdn.net/data/flags/w580/de.png" width="50" height="50">| Alemania | 3|  
 ___
 
 ### Grupo G
