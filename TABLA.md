@@ -21,18 +21,20 @@ ___
 ### Grupo C
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Francia" src="http://flags.fmcdn.net/data/flags/w580/fr.png" width="50" height="50">| Francia|6|       
-| <img alt="Dinamarca" src="http://flags.fmcdn.net/data/flags/w580/dk.png" width="50" height="50">| Dinamarca |4|       
+| <img alt="Francia" src="http://flags.fmcdn.net/data/flags/w580/fr.png" width="50" height="50">| Francia|7|       
+| <img alt="Dinamarca" src="http://flags.fmcdn.net/data/flags/w580/dk.png" width="50" height="50">| Dinamarca |5|
+| <img alt="Perú" src="http://flags.fmcdn.net/data/flags/w580/pe.png" width="50" height="50">| Perú |3|
 | <img alt="Australia" src="http://flags.fmcdn.net/data/flags/w580/au.png" width="50" height="50">| Australia |1|       
-| <img alt="Perú" src="http://flags.fmcdn.net/data/flags/w580/pe.png" width="50" height="50">| Perú |0|       
+       
 ___
 ### Grupo D
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Croacia" src="http://flags.fmcdn.net/data/flags/w580/hr.png" width="50" height="50">| Croacia|6|       
+| <img alt="Croacia" src="http://flags.fmcdn.net/data/flags/w580/hr.png" width="50" height="50">| Croacia|9| 
+| <img alt="Argentina" src="http://flags.fmcdn.net/data/flags/w580/ar.png" width="50" height="50">| Argentina |4|
 | <img alt="Nigeria" src="http://flags.fmcdn.net/data/flags/w580/ng.png" width="50" height="50">| Nigeria |3|       
 | <img alt="Islandia" src="http://flags.fmcdn.net/data/flags/w580/is.png" width="50" height="50">| Islandia |1|       
-| <img alt="Argentina" src="http://flags.fmcdn.net/data/flags/w580/ar.png" width="50" height="50">| Argentina |0|       
+|       
 ___
 ### Grupo E
 |Bandera               |      Equipos         | Puntos|
@@ -45,10 +47,11 @@ ___
 ### Grupo F
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
+| <img alt="Suecia" src="http://flags.fmcdn.net/data/flags/w580/se.png" width="50" height="50">| Suecia | 6|
 | <img alt="México" src="http://flags.fmcdn.net/data/flags/w580/mx.png" width="50" height="50">| México | 6|
-| <img alt="Suecia" src="http://flags.fmcdn.net/data/flags/w580/se.png" width="50" height="50">| Suecia | 3|
-| <img alt="Alemania" src="http://flags.fmcdn.net/data/flags/w580/de.png" width="50" height="50">| Alemania | 0|  
-| <img alt="Corea Sur" src="http://flags.fmcdn.net/data/flags/w580/kr.png" width="50" height="50">| Corea Sur | 0|     
+| <img alt="Corea del Sur" src="http://flags.fmcdn.net/data/flags/w580/kr.png" width="50" height="50">| Corea del Sur | 3| 
+| <img alt="Alemania" src="http://flags.fmcdn.net/data/flags/w580/de.png" width="50" height="50">| Alemania | 3|  
+    
 ___
 
 ### Grupo G
